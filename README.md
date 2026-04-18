@@ -1,3 +1,4 @@
+bash
 #AI Procurement Agent
 #1. Как запустить проект
 Требования: Docker Desktop, Java 17/21, Gradle 8.5+
